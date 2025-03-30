@@ -23,9 +23,16 @@ project:
       file: Number_Partitioning_using_QAOA.ipynb
     - title: VQE
       file: Number_partition_VQE.ipynb
-    
 site:
   template: book-theme
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
+  # actions:
+  #   - title: A URL
+  #     url: https://mystmd.org
+  # options:
+  #   hide_toc: true
+  #   hide_outline: true
+  #   hide_title_block: true
+
